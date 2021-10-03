@@ -9,9 +9,9 @@ A simple command-line Blackjack game using Python implementing Object Oriented P
 
 ### Run Instructions
 
-`> git clone https://github.com/sheetalbongale/Blackjack-Python.git`
+`> git clone https://github.com/aseemsangalay/100DaysOfPython/tree/main/Day%2011
 
-`> python blackjack.py or in ipython: %run blackjack.py`
+`> python3 main.py or in ipython: %run main.py`
 
 - - -
 
