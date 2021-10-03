@@ -16,7 +16,8 @@ A simple command-line Blackjack game using Python implementing Object Oriented P
 - - -
 
 ### Objective of the game
-->  The deck is unlimited in size. 
+
+->  The deck is unlimited in size. <br />
 ->  There are no jokers. 
 ->  The Jack/Queen/King all count as 10.
 ->  The the Ace can count as 11 or 1.
