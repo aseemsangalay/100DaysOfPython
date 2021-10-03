@@ -1,7 +1,7 @@
 # Blackjack Game ♠️♥️♣️♦️
-
+<p align = 'center'>
 ![](https://media.giphy.com/media/l2Sq2mPVJr4tfk436/giphy.gif)
-
+</p>
 
 #### Created by : Aseem Sangalay
 
