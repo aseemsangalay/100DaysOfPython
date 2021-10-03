@@ -1,6 +1,6 @@
 # Blackjack Game ♠️♥️♣️♦️
 
-![](https://giphy.com/gifs/southparkgifs-l2Sq2mPVJr4tfk436)
+![](https://media.giphy.com/media/l2Sq2mPVJr4tfk436/giphy.gif)
 
 
 #### Created by : Aseem Sangalay
