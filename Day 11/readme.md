@@ -1,6 +1,6 @@
 # Blackjack Game ♠️♥️♣️♦️
 
-![Alt Text](https://i.gifer.com/ALTb.gif)
+![](https://giphy.com/gifs/southparkgifs-l2Sq2mPVJr4tfk436)
 
 
 #### Created by : Aseem Sangalay
@@ -9,7 +9,7 @@ A simple command-line Blackjack game using Python implementing Object Oriented P
 
 ### Run Instructions
 
-`> git clone https://github.com/aseemsangalay/100DaysOfPython/tree/main/Day%2011
+`> git clone https://github.com/aseemsangalay/100DaysOfPython/tree/main/Day%2011`
 
 `> python3 main.py or in ipython: %run main.py`
 
